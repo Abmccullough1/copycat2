@@ -1,0 +1,16 @@
+body{
+    background-color: #3668ff;
+    
+}
+.logo{
+    font-family: ;
+    position: absolute; top: -10px;
+    position: absolute; left: 10px;
+    color: white;
+}
+.stuff{
+    position: absolute;top:10px;
+    position: absolute;right: 10px;
+    color: white;
+    font-size: 20px;
+}
