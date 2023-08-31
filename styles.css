@@ -45,11 +45,57 @@ body{
 .copyright{
     color: white;
     position: absolute;bottom:10px;
-    position: absolute;right: 200px;
+    position: absolute;right: 475px;
+    font-size: 8px;
 }
 .bottom{
     color: white;
     position: absolute;bottom: 30px;
-    position: absolute;right: 50px;
+    position: absolute;right: 275px;
+    font-size: 13px;
+}
+
+.box1{
+    position: absolute;top:300px;
+    position: absolute;right:500px;
+    height:30px;
+    width: 400px;
+}
+.email{
+    color: white;
     font-size: 19px;
+    position: absolute;right:870px;
+    position: absolute;top: 275px;
+}
+.box2{
+    position: absolute;top: 375px;
+    position: absolute;right:500px;
+    height:30px;
+    width: 400px;
+}
+.password{
+    color: white;
+    font-size: 19px;
+    position: absolute;right:845px;
+    position: absolute;top:350px;
+}
+.forgotten{
+    color: white;
+    position: absolute;top:550px;
+    position: absolute;right: 660px;
+}
+.login{
+    color: lightgray;
+    position: absolute;right:700px;
+    position: absolute;top:425px
+}
+.account{
+    color: white;
+    position: absolute;top:625px;
+    position: absolute;right:610px;
+}
+.signup{
+    color: white;
+    position: absolute;top: 650px;
+    position: absolute;right: 685px;
 }
