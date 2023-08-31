@@ -3,14 +3,53 @@ body{
     
 }
 .logo{
-    font-family: ;
+    font-size: 32px;
     position: absolute; top: -10px;
     position: absolute; left: 10px;
     color: white;
 }
 .stuff{
-    position: absolute;top:10px;
+    position: absolute;top:13px;
     position: absolute;right: 10px;
     color: white;
     font-size: 20px;
+}
+.sign{
+    position: absolute;top: 13px;
+    position: absolute;right: 85px;
+    color: white;
+    font-size: 20px;
+
+}
+.view{
+    position: absolute; top: 13px;
+    position: absolute; right: 175px;
+    color: white;
+    font-size: 20px;
+}
+.ad1{
+    color: white;
+    font-size: 35px;
+    position: relative;top:48px
+}
+.ad2{
+    color: white;
+    font-size: 35px;
+    position: relative;top:49px;
+}
+.ad3{
+    color: white;
+    font-size: 35px;
+    position: relative;top:50px
+}
+.copyright{
+    color: white;
+    position: absolute;bottom:10px;
+    position: absolute;right: 200px;
+}
+.bottom{
+    color: white;
+    position: absolute;bottom: 30px;
+    position: absolute;right: 50px;
+    font-size: 19px;
 }
