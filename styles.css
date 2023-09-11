@@ -91,7 +91,7 @@ body {
 .forgotten {
   color: white;
   position: absolute;
-  top: 550px;
+  top: 500px;
   position: absolute;
   right: 660px;
 }
@@ -105,14 +105,14 @@ body {
 .account {
   color: white;
   position: absolute;
-  top: 625px;
+  top: 575px;
   position: absolute;
   right: 610px;
 }
 .signup {
   color: white;
   position: absolute;
-  top: 650px;
+  top: 595px;
   position: absolute;
   right: 685px;
 }
