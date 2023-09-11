@@ -1,101 +1,118 @@
-body{
-    background-color: #3668ff;
-    
+body {
+  background-color: #3668ff;
 }
-.logo{
-    font-size: 32px;
-    position: absolute; top: -10px;
-    position: absolute; left: 10px;
-    color: white;
+.logo {
+  font-size: 32px;
+  position: absolute;
+  top: -10px;
+  position: absolute;
+  left: 10px;
+  color: white;
 }
-.stuff{
-    position: absolute;top:13px;
-    position: absolute;right: 10px;
-    color: white;
-    font-size: 20px;
+.stuff {
+  position: absolute;
+  top: 13px;
+  position: absolute;
+  right: 10px;
+  color: white;
+  font-size: 20px;
 }
-.sign{
-    position: absolute;top: 13px;
-    position: absolute;right: 85px;
-    color: white;
-    font-size: 20px;
+.sign {
+  position: absolute;
+  top: 13px;
+  position: absolute;
+  right: 85px;
+  color: white;
+  font-size: 20px;
+}
+.view {
+  position: absolute;
+  top: 13px;
+  position: absolute;
+  right: 175px;
+  color: white;
+  font-size: 20px;
+}
+.ad1 {
+  color: white;
+  font-size: 35px;
+  position: relative;
+  top: 50px;
+}
+.copyright {
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  position: absolute;
+  right: 475px;
+  font-size: 8px;
+}
+.bottom {
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  position: absolute;
+  right: 275px;
+  font-size: 13px;
+}
 
+.box1 {
+  position: absolute;
+  top: 300px;
+  position: absolute;
+  right: 500px;
+  height: 30px;
+  width: 400px;
 }
-.view{
-    position: absolute; top: 13px;
-    position: absolute; right: 175px;
-    color: white;
-    font-size: 20px;
+.email {
+  color: white;
+  font-size: 19px;
+  position: absolute;
+  right: 870px;
+  position: absolute;
+  top: 275px;
 }
-.ad1{
-    color: white;
-    font-size: 35px;
-    position: relative;top:48px
+.box2 {
+  position: absolute;
+  top: 375px;
+  position: absolute;
+  right: 500px;
+  height: 30px;
+  width: 400px;
 }
-.ad2{
-    color: white;
-    font-size: 35px;
-    position: relative;top:49px;
+.password {
+  color: white;
+  font-size: 19px;
+  position: absolute;
+  right: 845px;
+  position: absolute;
+  top: 350px;
 }
-.ad3{
-    color: white;
-    font-size: 35px;
-    position: relative;top:50px
+.forgotten {
+  color: white;
+  position: absolute;
+  top: 550px;
+  position: absolute;
+  right: 660px;
 }
-.copyright{
-    color: white;
-    position: absolute;bottom:10px;
-    position: absolute;right: 475px;
-    font-size: 8px;
+.login {
+  color: lightgray;
+  position: absolute;
+  right: 700px;
+  position: absolute;
+  top: 425px;
 }
-.bottom{
-    color: white;
-    position: absolute;bottom: 30px;
-    position: absolute;right: 275px;
-    font-size: 13px;
+.account {
+  color: white;
+  position: absolute;
+  top: 625px;
+  position: absolute;
+  right: 610px;
 }
-
-.box1{
-    position: absolute;top:300px;
-    position: absolute;right:500px;
-    height:30px;
-    width: 400px;
-}
-.email{
-    color: white;
-    font-size: 19px;
-    position: absolute;right:870px;
-    position: absolute;top: 275px;
-}
-.box2{
-    position: absolute;top: 375px;
-    position: absolute;right:500px;
-    height:30px;
-    width: 400px;
-}
-.password{
-    color: white;
-    font-size: 19px;
-    position: absolute;right:845px;
-    position: absolute;top:350px;
-}
-.forgotten{
-    color: white;
-    position: absolute;top:550px;
-    position: absolute;right: 660px;
-}
-.login{
-    color: lightgray;
-    position: absolute;right:700px;
-    position: absolute;top:425px
-}
-.account{
-    color: white;
-    position: absolute;top:625px;
-    position: absolute;right:610px;
-}
-.signup{
-    color: white;
-    position: absolute;top: 650px;
-    position: absolute;right: 685px;
+.signup {
+  color: white;
+  position: absolute;
+  top: 650px;
+  position: absolute;
+  right: 685px;
 }
